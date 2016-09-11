@@ -1,0 +1,40 @@
+~ Begin Bibliography { .bib-numeric ; caption:"5" ; data-style:"plainnat" }
+
+
+~ Begin Bibitem { cite-year:"2004" ; cite-authors:"Fagerberg et\ al." ; cite-authors-long:"Fagerberg, Mowery, and Nelson" ; id:"fberg04" ; tex-cite-label:"Fagerberg et~al.(2004)Fagerberg, Mowery, and Nelson" ; caption:"J.\ Fagerberg, D.C. Mowery, and R.R. Nelson, editors. &nl;_Oxford Handbook of Innovation_\/, volume\ 1." ; searchterm:"_Oxford+Handbook+Innovation_+volume+++Fagerberg+Mowery+Nelson+editors+" }
+J.\ Fagerberg, D.C. Mowery, and R.R. Nelson, editors.
+[]{.newblock} _Oxford Handbook of Innovation_\/, volume\ 1.
+[]{.newblock} Oxford University Press, Oxford, 2004.
+~ End Bibitem
+
+~ Begin Bibitem { cite-year:"1993" ; cite-authors:"Goossens et\ al." ; cite-authors-long:"Goossens, Mittelbach, and Samarin" ; id:"goo93" ; tex-cite-label:"Goossens et~al.(1993)Goossens, Mittelbach, and Samarin" ; caption:"Michel Goossens, Frank Mittelbach, and Alexander Samarin. &nl;_The LaTeX Companion_\/." ; searchterm:"_The+LaTeX+Companion_++Michel+Goossens+Frank+Mittelbach+Alexander+Samarin+" }
+Michel Goossens, Frank Mittelbach, and Alexander Samarin.
+[]{.newblock} _The LaTeX Companion_\/.
+[]{.newblock} Addison-Wesley, Reading, Massachusetts, 1993.
+~ End Bibitem
+
+~ Begin Bibitem { cite-year:"2004" ; cite-authors:"Grandstrand" ; id:"grandstrand" ; tex-cite-label:"Grandstrand(2004)" ; caption:"O.\ Grandstrand. &nl;_Oxford Handbook of Innovation_\/, chapter Innovation and Intellectual Property Rights. &nl;Volume\ 1 of @Fberg04, 2004." ; searchterm:"+Grandstrand+_Oxford+Handbook+Innovation_+chapter+Innovation+Intellectual+Property+Rights+Volume+Fberg04++" }
+O.\ Grandstrand.
+[]{.newblock} _Oxford Handbook of Innovation_\/, chapter Innovation and
+  Intellectual Property Rights.
+[]{.newblock} Volume\ 1 of  @Fberg04, 2004.
+~ End Bibitem
+
+~ Begin Bibitem { cite-year:"1984" ; cite-authors:"Knuth" ; id:"knuth:tex" ; tex-cite-label:"Knuth(1984)" ; caption:"Donald\ E. Knuth. &nl;_The TeX book_\/." ; searchterm:"_The+book_++Donald+Knuth+" }
+Donald\ E. Knuth.
+[]{.newblock} _The TeX book_\/.
+[]{.newblock} Addison-Wesley, 1984.
+~ End Bibitem
+
+~ Begin Bibitem { cite-year:"1994" ; cite-authors:"Lamport" ; id:"lamport:latex" ; tex-cite-label:"Lamport(1994)" ; caption:"Leslie Lamport. &nl;_LaTeX: A Document Preparation System (2nd Edition)_\/." ; searchterm:"_LaTeX+Document+Preparation+System+Edition++Leslie+Lamport+" }
+Leslie Lamport.
+[]{.newblock} _LaTeX: A Document Preparation System (2nd Edition)_\/.
+[]{.newblock} Addison-Wesley, 1994.
+[]{.newblock} See also [@Knuth:Tex].
+~ End Bibitem
+
+
+
+
+~ End Bibliography
+
